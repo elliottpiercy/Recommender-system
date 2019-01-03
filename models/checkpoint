@@ -1,0 +1,2 @@
+model_checkpoint_path: "rec_system"
+all_model_checkpoint_paths: "rec_system"
